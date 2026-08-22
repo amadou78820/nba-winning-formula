@@ -1,0 +1,7 @@
+dimension,weight_balanced,metrics,method,purpose
+Production,0.2,Career Production Z; Peak Production Z,Era-adjusted Z-scores,Measure statistical dominance relative to each NBA era
+Efficiency,0.15,Career TS+; Peak TS+,True Shooting relative to league environment,Measure scoring efficiency adjusted for era
+Playoffs,0.2,PO RAPTOR; RAPTOR Uplift; TS Uplift,Regular Season vs Playoffs comparison,Measure postseason level and ability to maintain or improve performance
+Individual Success,0.2,MVP; MVP Share; All-NBA; All-Defense,Benchmark normalization,Measure individual recognition and sustained elite status
+Team Success,0.1,NBA Championships,Historical championships benchmark,Measure contribution within successful team contexts
+Longevity,0.15,Career Seasons; Career Games; Elite Seasons,Career and elite longevity benchmarks,Measure duration of sustained elite performance
